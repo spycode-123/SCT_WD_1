@@ -14,3 +14,15 @@ It includes sections like **Home, Features, About, and Contact**, with a respons
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## 🔧 How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/sypcode-123/SCT_WD_1.git
+
+cd SCT_WD_1
+
+
